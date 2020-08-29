@@ -1,6 +1,24 @@
 header{
-background: yellow;
+    background-color: rgb(235, 137, 137);
+    text-align: center;
+    height: 200px;
+    width:100%;
 }
-hi {
-text-align: center;
+h1{
+    color: red;
+    color: white;
+}
+.jumbotron {
+    background-color: rgb(235, 137, 137);
+}
+
+.btn-primary{
+    background-color: #fff;
+    color: rgb(235, 137, 137);
+    border-radius: 20px;
+    border-color:rgb(235, 137, 137);
+}
+.box{
+    border-style: solid;
+    margin: 5px 5px;
 }
