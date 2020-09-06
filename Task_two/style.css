@@ -9,3 +9,6 @@ img{
     margin: auto;
     width: 1140px;
 }
+p, h1{
+    text-align: center;
+}
